@@ -41,7 +41,7 @@
 
 ### S.O 💻
 
-### ✔  Ubuntu, Kalinux
+### ✔  Ubuntu
 ### ✔  Windows
 
 <hr>
