@@ -34,7 +34,7 @@
 ### About 📌
 
 ### ✔  **Domain :** Web Development Junior 💻
-### ✔  **Skills :** Javascript, Vue.js Mysql, PHP, .NET Core 5, Python, Java
+### ✔  **Skills :** Javascript, Vue.js Mysql, PHP, .NET 6.0 , Python, Java
 ### ✔  **Hobbies :**  Read 📕, Music 🎧
 
 <hr>
