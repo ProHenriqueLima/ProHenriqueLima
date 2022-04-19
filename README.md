@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Vue.js%20-%23F7DF1E.svg?&style=for-the-badge&color=41B883" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Flutter%20-%23F7DF1E.svg?&style=for-the-badge&color=115B9A" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/web%20components%20-%23F7DF1E.svg?&style=for-the-badge&color=E06027" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Vuex%20-%23F7DF1E.svg?&style=for-the-badge&color=65BEAA" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Adobe XD%20-%23F7DF1E.svg?&style=for-the-badge&color=470137" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
