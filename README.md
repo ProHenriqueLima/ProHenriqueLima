@@ -1,5 +1,5 @@
 <h1>Hello, I'm Henrique Lima🙋‍♂️</h1>
-<h2>💻👨‍💻Web FullStack Pleno</h2>
+<h2>💻👨‍💻Web FullStack Sênior</h2>
 
 <hr>
 
