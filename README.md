@@ -33,7 +33,7 @@
 
 ### About 📌
 
-### ✔  **Domain :** Web Development Junior 💻
+### ✔  **Domain :** Web Development Sênior 💻
 ### ✔  **Skills :** Javascript, Vue.js Mysql, PHP, .NET 6.0 , Python, Java
 ### ✔  **Hobbies :**  Read 📕, Music 🎧
 
